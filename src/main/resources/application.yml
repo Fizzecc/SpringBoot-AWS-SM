@@ -1,6 +1,2 @@
 server:
     port: 8090
-
-actuator:
-    username: admin
-    secret: secret@2020

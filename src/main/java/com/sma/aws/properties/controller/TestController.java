@@ -9,10 +9,6 @@ import javax.servlet.http.HttpServletRequest;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * @author Mak Sophea
- * @date : 1/3/2020
- **/
 @RestController
 @RequestMapping(value = "/api/test")
 public class TestController {

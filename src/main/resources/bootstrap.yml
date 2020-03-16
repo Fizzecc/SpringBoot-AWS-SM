@@ -1,7 +1,6 @@
 aws:
     secretsmanager:
-        name: backend
-        prefix: /secret
+        name: dev/radius
 cloud:
     aws:
         region:
